@@ -1,0 +1,501 @@
+startup_id,startup_name,sector,stage,market,hq_country,email,total_raised,current_raise,revenue,growth_rate,team_size,traction_score,risk_score
+ST-0001,Flux HQ,ConstructionTech,Seed,Global,Singapore,contact@fluxhq1.co,4038927,1590985,173469,0.0,10,1.0,1.0
+ST-0002,HourRoot,AdTech,Series A,South Asia,Bangladesh,contact@hourroot2.io,4189555,10635090,3636900,0.0,70,1.0,0.0
+ST-0003,Jolt.app,PropTech,Pre-Seed,Global,Singapore,contact@joltapp3.co,170923,373290,135464,0.0,8,0.0,1.0
+ST-0004,NovaCore,InsurTech,Seed,South Asia,Bangladesh,contact@novacore4.co,3229977,1305623,1013441,0.0,25,1.0,1.0
+ST-0005,Fern Core,DeepTech,Pre-Seed,Middle East & Africa,UAE,contact@ferncore5.com,689156,246016,0,0.0,4,0.0,1.0
+ST-0006,TvTech,LegalTech,Pre-Seed,Global,Canada,contact@tvtech6.com,732429,349586,0,0.0,9,1.0,1.0
+ST-0007,Kite.app,CleanTech,Series A,Southeast Asia,Thailand,contact@kiteapp7.co,10897348,9246275,9215965,0.0,24,1.0,1.0
+ST-0008,DuneZone,PropTech,Seed,Asia Pacific,Hong Kong,contact@dunezone8.co,4514091,1566852,668870,0.0,27,1.0,1.0
+ST-0009,Glow Works,DeepTech,Pre-Seed,Asia Pacific,Japan,contact@glowworks0.io,467879,563804,0,0.0,11,0.0,1.0
+ST-0010,ThirdGate,E-commerce,Series A,South Asia,India,contact@thirdgate1.io,9929189,9053945,4449855,0.0,42,2.0,1.0
+ST-0011,Apex.xyz,AgriTech,Series B,Asia Pacific,Australia,contact@apexxyz2.io,40382075,29499332,44907152,0.0,158,2.0,0.0
+ST-0012,OpalPath,CleanTech,Series B,Latin America,Argentina,contact@opalpath3.io,17467110,26806477,34919669,0.0,83,2.0,0.0
+ST-0013,Helm Spot,Fintech,Pre-Seed,Global,Canada,contact@helmspot4.co,679850,154566,0,0.0,4,0.0,1.0
+ST-0014,ExpectMind,PropTech,Seed,Middle East & Africa,Kenya,contact@expectmind5.io,3884044,2579811,122859,0.0,18,1.0,1.0
+ST-0015,Sage.ai,Fintech,Series C,South Asia,India,contact@sageai6.com,340960976,78167191,105240991,0.0,766,2.0,0.0
+ST-0016,OrbiCo,ConstructionTech,Pre-Seed,Europe,Germany,contact@orbico7.io,152694,116691,0,0.0,12,0.0,1.0
+ST-0017,Sage Wave,CleanTech,Series A,Europe,Spain,contact@sagewave8.io,17454985,9805351,1650023,0.0,66,1.0,0.0
+ST-0018,PressureFlow,HealthTech,Seed,Middle East & Africa,UAE,contact@pressureflow0.io,4200489,763847,953378,0.0,23,1.0,1.0
+ST-0019,Glow.xyz,AdTech,Seed,Asia Pacific,New Zealand,contact@glowxyz1.io,4215806,1981187,368243,0.0,12,1.0,1.0
+ST-0020,EchoZone,AgriTech,Series A,Middle East & Africa,UAE,contact@echozone2.io,17466198,4363918,2515139,0.0,37,2.0,1.0
+ST-0021,Glow Spot,Fintech,Series B,South Asia,India,contact@glowspot3.com,76206346,34428892,38633739,0.0,179,2.0,0.0
+ST-0022,WellTech,InsurTech,Series A,South Asia,Bangladesh,contact@welltech4.co,7136188,10631480,4005694,0.0,37,2.0,1.0
+ST-0023,Neon.app,BioTech,Series A,Latin America,Colombia,contact@neonapp5.com,5051150,4503596,1635770,0.0,65,1.0,0.0
+ST-0024,WarpBase,MarTech,Series A,Latin America,Brazil,contact@warpbase6.com,8036190,6691454,3371542,0.0,23,1.0,0.0
+ST-0025,Hive Stack,E-commerce,Pre-Seed,Asia Pacific,Australia,contact@hivestack7.com,595361,405108,0,0.0,3,1.0,1.0
+ST-0026,FreeScale,HealthTech,Series B,Global,Germany,contact@freescale8.com,64046798,44322551,10131169,0.0,240,1.0,0.0
+ST-0027,Dune.app,ConstructionTech,Seed,South Asia,Sri Lanka,contact@duneapp0.io,2527315,1606803,1485047,0.0,21,1.0,1.0
+ST-0028,RazeDesk,Cybersecurity,Seed,Latin America,Brazil,contact@razedesk1.com,1579393,1879981,0,0.0,22,1.0,1.0
+ST-0029,Hive Stack,InsurTech,Seed,Asia Pacific,Australia,contact@hivestack2.co,1550407,1161387,884684,0.0,10,1.0,1.0
+ST-0030,EndIO,BioTech,Seed,Southeast Asia,Singapore,contact@endio3.com,1246653,1269030,853811,0.0,8,1.0,1.0
+ST-0031,Glow.xyz,AdTech,Seed,Asia Pacific,New Zealand,contact@glowxyz4.com,3191165,2723557,905570,0.0,11,1.0,1.0
+ST-0032,FuseAI,BioTech,Seed,North America,USA,contact@fuseai5.io,2835337,1605574,1495418,0.0,25,1.0,1.0
+ST-0033,Reef Edge,PropTech,Seed,Europe,Germany,contact@reefedge6.io,2352403,1738673,600678,0.0,6,1.0,1.0
+ST-0034,AnyHQ,AgriTech,Pre-Seed,North America,Canada,contact@anyhq7.io,101494,436986,99699,0.0,3,0.0,1.0
+ST-0035,Hive.app,FoodTech,Series A,Europe,UK,contact@hiveapp8.co,13350818,5110867,2004593,0.0,51,1.0,1.0
+ST-0036,LumeMind,EdTech,Pre-Seed,Southeast Asia,Philippines,contact@lumemind0.co,327268,558518,0,0.0,7,0.0,1.0
+ST-0037,Velo Zone,DeepTech,Series B,Southeast Asia,Singapore,contact@velozone1.io,80677386,52720619,18974136,0.0,103,1.0,0.0
+ST-0038,AnyScale,MarTech,Pre-Seed,Asia Pacific,Japan,contact@anyscale2.io,561652,324331,108686,0.0,5,0.0,1.0
+ST-0039,Echo.app,CleanTech,Seed,Global,USA,contact@echoapp3.io,3851173,2263070,579118,0.0,26,1.0,1.0
+ST-0040,FluxIO,DeepTech,Seed,Middle East & Africa,UAE,contact@fluxio4.io,948703,2776104,0,0.0,27,1.0,1.0
+ST-0041,Tide Edge,ConstructionTech,Series A,Global,USA,contact@tideedge5.io,17489803,13171448,4110089,0.0,62,1.0,1.0
+ST-0042,TopLabs,ConstructionTech,Seed,Europe,Germany,contact@toplabs6.co,3579798,1218448,0,0.0,29,1.0,1.0
+ST-0043,Kite.app,AI/ML,Seed,Latin America,Brazil,contact@kiteapp7.com,1959686,640298,646030,0.0,15,1.0,1.0
+ST-0044,CleoTech,ConstructionTech,Seed,Global,Canada,contact@cleotech8.co,1583734,2782073,0,0.0,11,1.0,1.0
+ST-0045,Vast Sync,InsurTech,Series B,Southeast Asia,Singapore,contact@vastsync0.io,95345029,59382585,17060250,0.0,188,2.0,0.0
+ST-0046,AdministrationGate,FoodTech,Seed,Europe,Germany,contact@administrati1.io,3073652,1937030,442846,0.0,21,1.0,1.0
+ST-0047,Bolt.xyz,FoodTech,Seed,Latin America,Mexico,contact@boltxyz2.co,4108694,1047511,0,0.0,24,1.0,1.0
+ST-0048,DeftDesk,EdTech,Series A,North America,Canada,contact@deftdesk3.io,3567197,6743196,1748412,0.0,36,1.0,0.0
+ST-0049,Cove Sync,LogisTech,Seed,Latin America,Mexico,contact@covesync4.io,4613220,2860470,442712,0.0,25,1.0,1.0
+ST-0050,CanWorks,CleanTech,Seed,Global,Canada,contact@canworks5.io,906363,1486436,185383,0.0,24,1.0,1.0
+ST-0051,Orbi.ai,CleanTech,Pre-Seed,Asia Pacific,Australia,contact@orbiai6.co,890023,464915,44273,0.0,10,1.0,1.0
+ST-0052,ReefHQ,E-commerce,Pre-Seed,North America,USA,contact@reefhq7.io,996131,175478,0,0.0,6,0.0,1.0
+ST-0053,Cove Link,MarTech,Series B,Southeast Asia,Philippines,contact@covelink8.co,23416839,34467352,22181447,0.0,57,1.0,0.0
+ST-0054,FireNest,LogisTech,Series A,Europe,Spain,contact@firenest0.io,12255920,14711953,3907401,0.0,27,1.0,1.0
+ST-0055,Vast.ai,Cybersecurity,Pre-Seed,North America,USA,contact@vastai1.io,281390,181851,13722,0.0,4,0.0,1.0
+ST-0056,MintWorks,E-commerce,Seed,North America,Canada,contact@mintworks2.com,4943873,1850539,164890,0.0,8,1.0,1.0
+ST-0057,Fuse Edge,Fintech,Series A,Southeast Asia,Vietnam,contact@fuseedge3.com,5154895,7472487,1579668,0.0,44,1.0,1.0
+ST-0058,ReachMind,DeepTech,Seed,South Asia,Sri Lanka,contact@reachmind4.com,3772593,2771879,452445,0.0,6,1.0,1.0
+ST-0059,Snap.ai,FoodTech,Seed,Asia Pacific,Australia,contact@snapai5.com,1949503,870835,0,0.0,20,1.0,1.0
+ST-0060,GridRoot,InsurTech,Series A,Asia Pacific,Hong Kong,contact@gridroot6.co,10313389,12310249,1586934,0.0,72,1.0,1.0
+ST-0061,Snap Mind,CleanTech,Seed,Global,Singapore,contact@snapmind7.io,2294286,2324031,468785,0.0,29,1.0,1.0
+ST-0062,ProductTech,HealthTech,Series A,Europe,Netherlands,contact@producttech8.com,15658012,6844409,1736097,0.0,77,1.0,1.0
+ST-0063,Reef.co,HRTech,Pre-Seed,North America,Canada,contact@reefco0.co,346826,167340,30946,0.0,10,0.0,1.0
+ST-0064,LumeWorks,BioTech,Seed,South Asia,Bangladesh,contact@lumeworks1.co,4885460,2546067,964049,0.0,28,1.0,1.0
+ST-0065,Cleo Base,InsurTech,Pre-Seed,Middle East & Africa,Nigeria,contact@cleobase2.com,222335,193113,13917,0.0,12,0.0,1.0
+ST-0066,KnowGate,HRTech,Pre-Seed,Asia Pacific,South Korea,contact@knowgate3.com,401550,569037,113519,0.0,3,0.0,1.0
+ST-0067,Fern.co,LegalTech,Series A,Global,Germany,contact@fernco4.co,10514751,5551169,7671960,0.0,43,1.0,1.0
+ST-0068,XcelRoot,InsurTech,Seed,North America,USA,contact@xcelroot5.io,4930005,636955,0,0.0,24,1.0,1.0
+ST-0069,Lume AI,FoodTech,Series A,Global,UK,contact@lumeai6.com,9463527,11147726,5252492,0.0,67,1.0,1.0
+ST-0070,AllowLabs,HRTech,Series B,North America,Canada,contact@allowlabs7.com,88279351,38787958,29949785,0.0,134,1.0,0.0
+ST-0071,Keen.io,ConstructionTech,Pre-Seed,Asia Pacific,South Korea,contact@keenio8.com,464876,168811,0,0.0,3,1.0,1.0
+ST-0072,OpalEdge,AI/ML,Series C,Europe,Sweden,contact@opaledge0.co,127891189,121592330,183066092,0.0,623,2.0,0.0
+ST-0073,Lynx HQ,E-commerce,Series A,Latin America,Mexico,contact@lynxhq1.com,13240783,11882799,6727336,0.0,65,1.0,1.0
+ST-0074,StudyWorks,MarTech,Series A,Asia Pacific,Hong Kong,contact@studyworks2.co,13800071,10118783,8710345,0.0,25,1.0,0.0
+ST-0075,Jolt.co,MarTech,Series B,North America,Canada,contact@joltco3.co,21306206,33087124,4767541,0.0,107,2.0,0.0
+ST-0076,FernZone,ConstructionTech,Series B,Global,Germany,contact@fernzone4.co,62116892,49590890,45106208,0.0,212,2.0,0.0
+ST-0077,Warp Root,E-commerce,Seed,North America,Canada,contact@warproot5.com,4149351,2593443,126494,0.0,6,1.0,1.0
+ST-0078,FilmRoot,DeepTech,Series A,Southeast Asia,Vietnam,contact@filmroot6.io,18604925,7036415,7857415,0.0,18,1.0,0.0
+ST-0079,Mint.ai,AdTech,Seed,Global,Singapore,contact@mintai7.io,3756801,2141410,1309919,0.0,20,1.0,1.0
+ST-0080,QuipIO,ConstructionTech,Seed,Europe,France,contact@quipio8.co,2195057,2479155,1005175,0.0,23,1.0,1.0
+ST-0081,Snap Root,LogisTech,Pre-Seed,North America,Canada,contact@snaproot0.io,221250,239225,97254,0.0,3,0.0,1.0
+ST-0082,WhatHQ,DeepTech,Pre-Seed,North America,Canada,contact@whathq1.co,174497,344868,0,0.0,10,1.0,1.0
+ST-0083,Trek.ai,HRTech,Series B,Middle East & Africa,Egypt,contact@trekai2.co,35190067,32209935,16391613,0.0,140,2.0,0.0
+ST-0084,WarpSync,Cybersecurity,Seed,Middle East & Africa,Egypt,contact@warpsync3.co,4929979,1654200,572809,0.0,29,1.0,1.0
+ST-0085,Deft Shift,BioTech,Series B,North America,Canada,contact@deftshift4.io,62135963,15129487,42756937,0.0,107,2.0,0.0
+ST-0086,ProjectSync,DeepTech,Series B,Southeast Asia,Philippines,contact@projectsync5.com,95445127,21101900,24203016,0.0,55,1.0,0.0
+ST-0087,Lynx.app,HealthTech,Series A,Middle East & Africa,Israel,contact@lynxapp6.com,8417643,3288081,7289691,0.0,24,1.0,1.0
+ST-0088,WarpStack,E-commerce,Pre-Seed,Asia Pacific,New Zealand,contact@warpstack7.co,54989,151497,0,0.0,7,1.0,1.0
+ST-0089,Lume Works,InsurTech,Series B,South Asia,Bangladesh,contact@lumeworks8.com,19058703,30991277,40313258,0.0,72,2.0,0.0
+ST-0090,ForgetAI,DeepTech,Pre-Seed,South Asia,Sri Lanka,contact@forgetai0.com,326708,101017,0,0.0,4,1.0,1.0
+ST-0091,Orbi.ai,DeepTech,Pre-Seed,North America,Canada,contact@orbiai1.io,91358,351473,0,0.0,6,0.0,1.0
+ST-0092,KiteWorks,MarTech,Seed,Middle East & Africa,Israel,contact@kiteworks2.com,2085346,1346368,1245575,0.0,30,1.0,1.0
+ST-0093,Deft Tech,LegalTech,Series A,North America,Canada,contact@defttech3.com,3744707,4593108,898106,0.0,48,2.0,1.0
+ST-0094,SeekBase,SaaS,Seed,South Asia,Bangladesh,contact@seekbase4.io,4379623,619510,409825,0.0,16,1.0,1.0
+ST-0095,Pave.co,AI/ML,Seed,Asia Pacific,New Zealand,contact@paveco5.io,4659397,1798190,1090622,0.0,20,1.0,1.0
+ST-0096,KeenHQ,HealthTech,Pre-Seed,Middle East & Africa,Egypt,contact@keenhq6.io,341171,491704,0,0.0,6,0.0,1.0
+ST-0097,Neon Zone,HRTech,Seed,Latin America,Brazil,contact@neonzone7.com,3520328,1515526,1124847,0.0,6,1.0,1.0
+ST-0098,VoiceMind,SaaS,Series B,Southeast Asia,Singapore,contact@voicemind8.com,81173807,28316424,20994157,0.0,171,2.0,0.0
+ST-0099,Orbi.app,HealthTech,Series B,Southeast Asia,Malaysia,contact@orbiapp0.io,48832894,42478037,14731748,0.0,197,2.0,0.0
+ST-0100,DuneHQ,BioTech,Seed,Latin America,Argentina,contact@dunehq1.com,4983643,1213942,736800,0.0,26,1.0,1.0
+ST-0101,Trek Tech,PropTech,Seed,Middle East & Africa,Egypt,contact@trektech2.com,2974987,1225906,236258,0.0,23,1.0,1.0
+ST-0102,IndeedNest,EdTech,Series A,South Asia,India,contact@indeednest3.com,16436342,2341692,5763204,0.0,67,1.0,1.0
+ST-0103,Fern.ai,InsurTech,Seed,Global,Germany,contact@fernai4.co,2348578,1523584,187990,0.0,7,1.0,1.0
+ST-0104,DeftSync,AdTech,Series A,Southeast Asia,Indonesia,contact@deftsync5.io,11548684,13286751,8398213,0.0,35,1.0,1.0
+ST-0105,Opal Flow,DeepTech,Pre-Seed,Latin America,Brazil,contact@opalflow6.io,236487,721629,0,0.0,8,0.0,1.0
+ST-0106,TowardWave,MarTech,Series A,Southeast Asia,Indonesia,contact@towardwave7.co,13616146,13726012,3707386,0.0,18,2.0,0.0
+ST-0107,Echo.co,Cybersecurity,Seed,Global,Canada,contact@echoco8.co,636287,2722492,962861,0.0,11,1.0,1.0
+ST-0108,VastTech,SaaS,Series B,Southeast Asia,Philippines,contact@vasttech0.io,56161346,20201151,31513032,0.0,194,2.0,0.0
+ST-0109,Quip IO,LogisTech,Seed,Europe,France,contact@quipio1.com,2599127,1168679,0,0.0,12,1.0,1.0
+ST-0110,AccountNest,AI/ML,Series A,Middle East & Africa,Saudi Arabia,contact@accountnest2.co,8316154,11920578,5233523,0.0,47,1.0,0.0
+ST-0111,Quip.xyz,LegalTech,Pre-Seed,South Asia,India,contact@quipxyz3.co,385250,132851,176468,0.0,7,1.0,1.0
+ST-0112,SnapIO,BioTech,Series B,Middle East & Africa,Kenya,contact@snapio4.io,18845604,12557884,29405393,0.0,108,1.0,0.0
+ST-0113,Dune Base,ConstructionTech,Pre-Seed,Europe,Germany,contact@dunebase5.com,424209,616683,0,0.0,10,0.0,1.0
+ST-0114,ConferenceRoot,SaaS,Seed,North America,USA,contact@conferencero6.com,3711163,2509915,223411,0.0,8,1.0,1.0
+ST-0115,Quip.xyz,InsurTech,Series A,Middle East & Africa,Saudi Arabia,contact@quipxyz7.co,12049777,11213617,3348010,0.0,39,1.0,1.0
+ST-0116,FuseCore,Fintech,Series C,Asia Pacific,South Korea,contact@fusecore8.co,408819676,164185924,123974191,0.0,529,2.0,0.0
+ST-0117,Helm Works,AgriTech,Series B,Southeast Asia,Thailand,contact@helmworks0.com,17683494,57410259,8165090,0.0,113,1.0,0.0
+ST-0118,NewLink,DeepTech,Seed,Asia Pacific,Australia,contact@newlink1.co,1121371,1018354,993340,0.0,13,1.0,1.0
+ST-0119,Mint.xyz,LogisTech,Pre-Seed,Latin America,Chile,contact@mintxyz2.io,232651,260237,44973,0.0,5,0.0,1.0
+ST-0120,XcelEdge,FoodTech,Seed,Middle East & Africa,Saudi Arabia,contact@xceledge3.co,1730559,804685,569541,0.0,25,1.0,1.0
+ST-0121,Hive Labs,InsurTech,Pre-Seed,Europe,France,contact@hivelabs4.io,673173,585770,0,0.0,5,1.0,1.0
+ST-0122,OfferHQ,ConstructionTech,Series A,South Asia,India,contact@offerhq5.com,14387177,8903539,6560473,0.0,42,1.0,0.0
+ST-0123,Deft.ai,AdTech,Series C,Southeast Asia,Philippines,contact@deftai6.co,472713481,180543939,105940734,0.0,777,2.0,0.0
+ST-0124,FernDesk,MarTech,Seed,South Asia,Sri Lanka,contact@ferndesk7.co,3754030,2841673,262597,0.0,9,1.0,1.0
+ST-0125,Quip Space,FoodTech,Series A,Southeast Asia,Thailand,contact@quipspace8.io,17904634,2120473,5895638,0.0,79,1.0,1.0
+ST-0126,SystemSpot,DeepTech,Series B,Asia Pacific,Japan,contact@systemspot0.co,54781765,19640570,8294398,0.0,142,1.0,0.0
+ST-0127,Mint.co,MarTech,Series A,South Asia,India,contact@mintco1.co,17554491,13661556,8356403,0.0,21,1.0,0.0
+ST-0128,DeftPath,PropTech,Seed,South Asia,India,contact@deftpath2.io,2226085,1616839,494438,0.0,19,1.0,1.0
+ST-0129,Lynx Labs,EdTech,Seed,Asia Pacific,South Korea,contact@lynxlabs3.com,2324375,1756301,1055336,0.0,8,1.0,1.0
+ST-0130,SometimesZone,CleanTech,Series A,South Asia,India,contact@sometimeszon4.io,5604155,11720553,6254520,0.0,51,1.0,1.0
+ST-0131,Raze.io,ConstructionTech,Series A,Europe,Sweden,contact@razeio5.io,11978943,6703203,9213825,0.0,69,2.0,0.0
+ST-0132,CoveIO,AI/ML,Pre-Seed,Middle East & Africa,Saudi Arabia,contact@coveio6.io,160428,233511,18188,0.0,10,0.0,1.0
+ST-0133,Vast Wave,SaaS,Pre-Seed,Asia Pacific,South Korea,contact@vastwave7.co,70682,265397,0,0.0,3,0.0,1.0
+ST-0134,StepSpot,SaaS,Series C,Europe,Netherlands,contact@stepspot8.com,200578097,68797012,44377196,0.0,624,2.0,0.0
+ST-0135,Pave.app,AgriTech,Series A,Global,USA,contact@paveapp0.co,19390454,13369198,1763403,0.0,23,2.0,0.0
+ST-0136,DeftVault,CleanTech,Pre-Seed,North America,USA,contact@deftvault1.io,489854,567411,0,0.0,4,0.0,1.0
+ST-0137,Velo Sync,EdTech,Series A,North America,Canada,contact@velosync2.co,16022909,13488836,648635,0.0,22,1.0,1.0
+ST-0138,PastStack,SaaS,Series A,South Asia,Sri Lanka,contact@paststack3.com,9838511,5046411,2564057,0.0,19,1.0,0.0
+ST-0139,Echo.co,MarTech,Series A,Middle East & Africa,Israel,contact@echoco4.io,17896391,14814042,5451885,0.0,33,1.0,1.0
+ST-0140,CleoDesk,HRTech,Series C,Asia Pacific,Australia,contact@cleodesk5.io,475466292,147414804,161444827,0.0,421,2.0,0.0
+ST-0141,Cove Path,CleanTech,Seed,South Asia,Bangladesh,contact@covepath6.co,1149583,1657563,0,0.0,15,1.0,1.0
+ST-0142,WishBase,Cybersecurity,Series B,Middle East & Africa,Egypt,contact@wishbase7.com,93389219,52356669,7345808,0.0,88,1.0,0.0
+ST-0143,Grid.ai,HealthTech,Pre-Seed,South Asia,Sri Lanka,contact@gridai8.co,687878,241061,0,0.0,5,1.0,1.0
+ST-0144,VeloVault,EdTech,Seed,Asia Pacific,Japan,contact@velovault0.co,3219807,1011283,828119,0.0,15,1.0,1.0
+ST-0145,Tide Flow,DeepTech,Seed,Asia Pacific,New Zealand,contact@tideflow1.com,4112675,2306034,480350,0.0,13,1.0,1.0
+ST-0146,ReturnVault,E-commerce,Seed,North America,Canada,contact@returnvault2.co,4706412,1947857,228617,0.0,14,1.0,1.0
+ST-0147,Mint.co,FoodTech,Series B,Asia Pacific,New Zealand,contact@mintco3.com,77285640,27608808,9578051,0.0,87,2.0,0.0
+ST-0148,BoltRoot,SaaS,Series A,Europe,Spain,contact@boltroot4.com,15993760,7361099,8504175,0.0,61,1.0,1.0
+ST-0149,Orbi Labs,ConstructionTech,Series A,Asia Pacific,New Zealand,contact@orbilabs5.com,3112410,9171366,612584,0.0,33,2.0,0.0
+ST-0150,SheScale,HRTech,Series C,Southeast Asia,Singapore,contact@shescale6.com,300241869,78555013,131560552,0.0,380,2.0,0.0
+ST-0151,Quip.app,MarTech,Seed,South Asia,Sri Lanka,contact@quipapp7.com,1849886,2570155,0,0.0,21,1.0,1.0
+ST-0152,PaveSpot,FoodTech,Seed,North America,USA,contact@pavespot8.co,1271226,1749646,1176564,0.0,26,1.0,1.0
+ST-0153,Flux Nest,Cybersecurity,Series B,Asia Pacific,South Korea,contact@fluxnest0.com,93553538,44221437,16177532,0.0,182,1.0,0.0
+ST-0154,OfAI,Cybersecurity,Series A,Southeast Asia,Thailand,contact@ofai1.io,18790874,5890600,5857603,0.0,70,1.0,1.0
+ST-0155,Pave.io,HealthTech,Series A,Middle East & Africa,UAE,contact@paveio2.com,10430500,12902771,3735631,0.0,77,1.0,1.0
+ST-0156,ApexDesk,BioTech,Series C,Asia Pacific,New Zealand,contact@apexdesk3.com,229440703,190582855,97732630,0.0,579,2.0,0.0
+ST-0157,Lynx Stack,HealthTech,Series A,Europe,France,contact@lynxstack4.com,9460000,12190574,1965630,0.0,38,1.0,1.0
+ST-0158,AttackMind,LogisTech,Pre-Seed,Latin America,Brazil,contact@attackmind5.com,132932,380137,102488,0.0,3,1.0,1.0
+ST-0159,Keen.app,Fintech,Series B,Latin America,Argentina,contact@keenapp6.io,81229374,46242192,29298218,0.0,99,2.0,0.0
+ST-0160,AriaIO,BioTech,Pre-Seed,Latin America,Colombia,contact@ariaio7.io,188638,208685,0,0.0,10,0.0,1.0
+ST-0161,Xcel Zone,ConstructionTech,Seed,South Asia,Bangladesh,contact@xcelzone8.com,1109703,516918,1262420,0.0,27,1.0,1.0
+ST-0162,PositionScale,ConstructionTech,Seed,Southeast Asia,Vietnam,contact@positionscal0.io,3214451,2238231,266456,0.0,13,1.0,1.0
+ST-0163,Echo.io,PropTech,Series A,Global,Singapore,contact@echoio1.io,9205264,14116873,2398100,0.0,27,1.0,0.0
+ST-0164,VastStack,Cybersecurity,Series A,Asia Pacific,South Korea,contact@vaststack2.co,4175697,13021243,8052933,0.0,24,1.0,0.0
+ST-0165,Zest Stack,HRTech,Series A,Global,USA,contact@zeststack3.io,19841910,8230051,4307648,0.0,75,1.0,1.0
+ST-0166,ArgueSpace,LogisTech,Series A,Europe,UK,contact@arguespace4.com,14179228,6615115,6646499,0.0,79,1.0,0.0
+ST-0167,Mint.app,EdTech,Seed,North America,USA,contact@mintapp5.io,1499005,2367133,1031497,0.0,14,1.0,1.0
+ST-0168,YokeIO,LogisTech,Seed,North America,Canada,contact@yokeio6.com,1829445,2801369,0,0.0,23,1.0,1.0
+ST-0169,Raze Root,FoodTech,Series A,Middle East & Africa,Kenya,contact@razeroot7.com,10448821,11057922,3529640,0.0,68,1.0,1.0
+ST-0170,EnjoyDesk,EdTech,Series B,Southeast Asia,Thailand,contact@enjoydesk8.com,58859482,37595514,18556514,0.0,142,2.0,0.0
+ST-0171,Cleo.app,AgriTech,Seed,North America,USA,contact@cleoapp0.io,3164914,1472089,308677,0.0,25,1.0,1.0
+ST-0172,CoveCo,LogisTech,Seed,Middle East & Africa,Israel,contact@coveco1.io,1012797,2176754,1448875,0.0,15,1.0,1.0
+ST-0173,Neon Shift,LegalTech,Series B,Southeast Asia,Thailand,contact@neonshift2.co,83052138,55934129,30737913,0.0,113,1.0,0.0
+ST-0174,InterestFlow,E-commerce,Pre-Seed,Global,Germany,contact@interestflow3.co,180974,349411,0,0.0,9,1.0,1.0
+ST-0175,Dune.io,FoodTech,Pre-Seed,Latin America,Mexico,contact@duneio4.com,348851,393151,0,0.0,2,0.0,1.0
+ST-0176,DuneRoot,FoodTech,Pre-Seed,Global,Germany,contact@duneroot5.io,724635,388504,0,0.0,10,0.0,1.0
+ST-0177,Opal Spot,InsurTech,Series A,Southeast Asia,Philippines,contact@opalspot6.co,15622810,11956954,5722399,0.0,22,1.0,1.0
+ST-0178,UsFlow,AdTech,Pre-Seed,North America,Canada,contact@usflow7.co,257615,376351,130734,0.0,11,0.0,1.0
+ST-0179,Fern.app,EdTech,Series B,South Asia,India,contact@fernapp8.co,64973531,27531542,36405436,0.0,83,1.0,0.0
+ST-0180,RazeSpace,SaaS,Series B,Middle East & Africa,Saudi Arabia,contact@razespace0.io,65732903,18418868,49013007,0.0,165,2.0,0.0
+ST-0181,Kite IO,HRTech,Series A,North America,Canada,contact@kiteio1.co,5157099,13259024,2871934,0.0,69,1.0,1.0
+ST-0182,GenerationPath,E-commerce,Seed,Latin America,Argentina,contact@generationpa2.io,2533963,2084069,139642,0.0,12,1.0,1.0
+ST-0183,Xcel.co,MarTech,Seed,North America,USA,contact@xcelco3.co,4874676,2087101,1275159,0.0,15,1.0,1.0
+ST-0184,XcelBase,PropTech,Series C,Latin America,Colombia,contact@xcelbase4.co,322732129,130582738,107360823,0.0,594,2.0,0.0
+ST-0185,Vast AI,EdTech,Series B,Southeast Asia,Philippines,contact@vastai5.io,15057454,57901588,12508956,0.0,76,2.0,0.0
+ST-0186,CareSync,BioTech,Pre-Seed,Europe,Spain,contact@caresync6.io,287870,341698,33105,0.0,5,1.0,1.0
+ST-0187,Fern.ai,Fintech,Pre-Seed,South Asia,Bangladesh,contact@fernai7.com,176065,247024,1857,0.0,10,1.0,1.0
+ST-0188,DeftPath,HealthTech,Series C,South Asia,Bangladesh,contact@deftpath8.com,386920620,56388347,76403266,0.0,239,2.0,0.0
+ST-0189,Deft Desk,E-commerce,Pre-Seed,Europe,Sweden,contact@deftdesk0.co,58051,522513,0,0.0,8,0.0,1.0
+ST-0190,TheirDeck,LegalTech,Seed,South Asia,India,contact@theirdeck1.com,1130059,807893,527303,0.0,25,1.0,1.0
+ST-0191,Lynx.xyz,ConstructionTech,Series A,Latin America,Brazil,contact@lynxxyz2.co,17889062,4670794,6265805,0.0,40,1.0,1.0
+ST-0192,LynxPath,AgriTech,Series A,Europe,Germany,contact@lynxpath3.io,13847400,2923156,8942883,0.0,38,1.0,0.0
+ST-0193,Echo Link,LogisTech,Series A,Southeast Asia,Philippines,contact@echolink4.com,3283720,2877923,2990760,0.0,19,1.0,1.0
+ST-0194,TvDesk,DeepTech,Series B,Global,Germany,contact@tvdesk5.co,49193580,42026864,28269802,0.0,67,1.0,0.0
+ST-0195,Zest.xyz,PropTech,Seed,Global,Canada,contact@zestxyz6.co,3934509,2124599,465254,0.0,29,1.0,1.0
+ST-0196,SnapHQ,LegalTech,Seed,North America,Canada,contact@snaphq7.co,3837621,2351645,0,0.0,23,1.0,1.0
+ST-0197,Zeal Root,BioTech,Pre-Seed,Southeast Asia,Vietnam,contact@zealroot8.com,762288,667749,23611,0.0,5,0.0,1.0
+ST-0198,PayBase,MarTech,Pre-Seed,Europe,Netherlands,contact@paybase0.io,535243,136035,33376,0.0,10,1.0,1.0
+ST-0199,Lume.io,DeepTech,Seed,North America,USA,contact@lumeio1.com,1600482,1679411,225127,0.0,26,1.0,1.0
+ST-0200,ReefNest,PropTech,Series B,South Asia,Bangladesh,contact@reefnest2.co,42194487,51299850,29862190,0.0,185,1.0,0.0
+ST-0201,Zeal Labs,AgriTech,Series A,Europe,Netherlands,contact@zeallabs3.io,16149967,6039071,1320662,0.0,39,1.0,1.0
+ST-0202,DesignVault,ConstructionTech,Series A,South Asia,Bangladesh,contact@designvault4.io,13058746,8413689,7839826,0.0,74,1.0,0.0
+ST-0203,Nova.app,Fintech,Series A,South Asia,Sri Lanka,contact@novaapp5.io,13811011,11014990,591151,0.0,64,1.0,1.0
+ST-0204,JoltHQ,Cybersecurity,Series C,South Asia,Bangladesh,contact@jolthq6.io,483697726,195609478,45627227,0.0,179,2.0,0.0
+ST-0205,Reef Stack,LogisTech,Seed,Asia Pacific,Australia,contact@reefstack7.co,930097,833785,112246,0.0,16,1.0,1.0
+ST-0206,FineBase,PropTech,Series C,Global,Singapore,contact@finebase8.io,270158298,77377796,189839843,0.0,651,2.0,0.0
+ST-0207,Trek.app,PropTech,Seed,Global,USA,contact@trekapp0.co,2112294,2425842,695020,0.0,7,1.0,1.0
+ST-0208,GridLabs,Cybersecurity,Pre-Seed,Middle East & Africa,Israel,contact@gridlabs1.com,725600,729460,0,0.0,5,1.0,1.0
+ST-0209,Quip Shift,LegalTech,Seed,South Asia,India,contact@quipshift2.io,958583,2484524,0,0.0,25,1.0,1.0
+ST-0210,DrawGate,LogisTech,Seed,Europe,Sweden,contact@drawgate3.co,1664693,2531868,0,0.0,28,1.0,1.0
+ST-0211,Mint.ai,SaaS,Series A,Asia Pacific,Australia,contact@mintai4.com,18710239,7631033,7382093,0.0,40,1.0,0.0
+ST-0212,CleoBase,BioTech,Series A,Asia Pacific,Japan,contact@cleobase5.com,13439812,10020703,6649145,0.0,72,1.0,0.0
+ST-0213,Pave IO,HRTech,Series B,South Asia,Sri Lanka,contact@paveio6.co,36177559,59704364,28551864,0.0,126,2.0,0.0
+ST-0214,CheckSpace,FoodTech,Series A,Middle East & Africa,Saudi Arabia,contact@checkspace7.co,8467275,5515664,747598,0.0,17,1.0,0.0
+ST-0215,Warp.xyz,LogisTech,Series C,South Asia,India,contact@warpxyz8.com,184099963,78584447,116064122,0.0,629,2.0,0.0
+ST-0216,EchoShift,AgriTech,Series A,Middle East & Africa,Israel,contact@echoshift0.com,7021369,6134057,7511998,0.0,53,1.0,0.0
+ST-0217,Echo Wave,E-commerce,Seed,South Asia,Bangladesh,contact@echowave1.co,1890739,1726091,0,0.0,10,1.0,1.0
+ST-0218,NetworkZone,Cybersecurity,Series B,Southeast Asia,Vietnam,contact@networkzone2.co,30084089,50121222,43806204,0.0,80,2.0,0.0
+ST-0219,Lume.xyz,LogisTech,Series B,Europe,France,contact@lumexyz3.co,95063473,29779778,7748512,0.0,77,1.0,0.0
+ST-0220,XcelDesk,PropTech,Pre-Seed,Southeast Asia,Thailand,contact@xceldesk4.co,708882,703749,44647,0.0,4,0.0,1.0
+ST-0221,Deft Co,Fintech,Seed,Global,Canada,contact@deftco5.com,1319368,1295542,917072,0.0,8,1.0,1.0
+ST-0222,HappenTech,CleanTech,Series C,Middle East & Africa,Nigeria,contact@happentech6.com,347198444,194092740,167899125,0.0,624,2.0,0.0
+ST-0223,Raze.io,HealthTech,Pre-Seed,Middle East & Africa,Nigeria,contact@razeio7.com,734393,131296,0,0.0,4,0.0,1.0
+ST-0224,NeonSpot,AgriTech,Series A,Europe,Netherlands,contact@neonspot8.co,14066483,10933085,2045237,0.0,70,1.0,0.0
+ST-0225,Kite Tech,PropTech,Seed,Southeast Asia,Philippines,contact@kitetech0.com,3793933,1867616,139657,0.0,20,1.0,1.0
+ST-0226,GuessDesk,AI/ML,Series C,Global,UK,contact@guessdesk1.com,122528281,72888076,54197166,0.0,619,2.0,0.0
+ST-0227,Hive.co,CleanTech,Pre-Seed,Europe,UK,contact@hiveco2.io,593181,645905,0,0.0,6,0.0,1.0
+ST-0228,GridPath,Cybersecurity,Series A,Europe,UK,contact@gridpath3.com,5904147,5793549,1278393,0.0,35,1.0,0.0
+ST-0229,Tide Tech,AdTech,Seed,Global,UK,contact@tidetech4.io,4484717,1423504,394944,0.0,11,1.0,1.0
+ST-0230,WhateverWorks,EdTech,Series B,Europe,Spain,contact@whateverwork5.io,83695313,30699333,38553474,0.0,62,1.0,0.0
+ST-0231,Cove.app,MarTech,Series C,South Asia,Bangladesh,contact@coveapp6.io,113161121,184444352,148575026,0.0,735,2.0,0.0
+ST-0232,HelmIO,EdTech,Series B,Asia Pacific,Japan,contact@helmio7.com,97634015,50423036,8930742,0.0,248,2.0,0.0
+ST-0233,Zest Scale,ConstructionTech,Seed,Latin America,Colombia,contact@zestscale8.co,4613783,667530,596032,0.0,12,1.0,1.0
+ST-0234,BaseSpace,ConstructionTech,Series B,Global,USA,contact@basespace0.io,27719597,38329696,30385823,0.0,70,1.0,0.0
+ST-0235,Hive.xyz,LogisTech,Seed,Global,Singapore,contact@hivexyz1.io,3446545,1930058,258300,0.0,20,1.0,1.0
+ST-0236,QuipSync,PropTech,Series A,South Asia,India,contact@quipsync2.co,11078709,5491597,4038187,0.0,67,1.0,1.0
+ST-0237,Kite Shift,CleanTech,Pre-Seed,Southeast Asia,Vietnam,contact@kiteshift3.co,470955,636785,0,0.0,8,0.0,1.0
+ST-0238,StaffScale,HRTech,Series B,Asia Pacific,Hong Kong,contact@staffscale4.io,84786478,35763485,10471705,0.0,151,1.0,0.0
+ST-0239,Echo.ai,AI/ML,Seed,South Asia,India,contact@echoai5.com,1622706,1641122,1056951,0.0,26,1.0,1.0
+ST-0240,LumeDeck,Fintech,Seed,South Asia,Bangladesh,contact@lumedeck6.io,3173196,943959,880320,0.0,9,1.0,1.0
+ST-0241,Fern Core,Fintech,Series B,Global,USA,contact@ferncore7.com,87574813,48991507,13072974,0.0,95,1.0,0.0
+ST-0242,VoteRoot,Fintech,Pre-Seed,North America,Canada,contact@voteroot8.com,665003,490742,0,0.0,10,0.0,1.0
+ST-0243,Glow.app,AgriTech,Seed,Middle East & Africa,Kenya,contact@glowapp0.io,1481941,1255363,935409,0.0,5,1.0,1.0
+ST-0244,OrbiSpot,ConstructionTech,Seed,Latin America,Colombia,contact@orbispot1.co,986470,659593,960892,0.0,12,1.0,1.0
+ST-0245,Jolt Hub,E-commerce,Seed,South Asia,India,contact@jolthub2.co,2318443,1298964,0,0.0,17,1.0,1.0
+ST-0246,IdentifyGate,AgriTech,Seed,North America,USA,contact@identifygate3.io,3769474,1055908,1177346,0.0,22,1.0,1.0
+ST-0247,Dune.io,InsurTech,Pre-Seed,Europe,Netherlands,contact@duneio4.com,753873,571371,182525,0.0,11,1.0,1.0
+ST-0248,OpalVault,InsurTech,Series C,Global,Singapore,contact@opalvault5.io,189434879,87048179,173218500,0.0,713,2.0,0.0
+ST-0249,Sage Path,Cybersecurity,Seed,Europe,Spain,contact@sagepath6.io,2884273,1532768,226168,0.0,14,1.0,1.0
+ST-0250,WordMind,E-commerce,Seed,Middle East & Africa,Egypt,contact@wordmind7.com,4005235,1718952,265236,0.0,5,1.0,1.0
+ST-0251,Aria.xyz,AI/ML,Seed,Asia Pacific,Australia,contact@ariaxyz8.com,3265159,2083719,1447992,0.0,6,1.0,1.0
+ST-0252,NovaSync,PropTech,Series B,South Asia,India,contact@novasync0.co,15350526,46680162,13634488,0.0,112,1.0,0.0
+ST-0253,Jolt Co,HealthTech,Series C,North America,Canada,contact@joltco1.io,271489051,123246146,114341176,0.0,596,2.0,0.0
+ST-0254,SonPath,LogisTech,Series C,South Asia,India,contact@sonpath2.io,88032388,75891418,197278314,0.0,164,2.0,0.0
+ST-0255,Flux.app,BioTech,Series B,North America,USA,contact@fluxapp3.co,24189643,51806000,5267048,0.0,139,1.0,0.0
+ST-0256,ZestHub,Fintech,Seed,Latin America,Argentina,contact@zesthub4.co,954409,1800773,1051090,0.0,27,1.0,1.0
+ST-0257,Hive HQ,EdTech,Series A,Asia Pacific,Japan,contact@hivehq5.co,6395740,5418921,5469888,0.0,61,1.0,0.0
+ST-0258,ReligiousPath,Cybersecurity,Series B,Asia Pacific,South Korea,contact@religiouspat6.com,15232730,43581657,45623362,0.0,184,1.0,0.0
+ST-0259,Yoke.ai,EdTech,Seed,Latin America,Mexico,contact@yokeai7.io,4948997,1240055,149713,0.0,6,1.0,1.0
+ST-0260,KeenLink,EdTech,Series A,Europe,UK,contact@keenlink8.com,17483978,10623615,2119867,0.0,43,1.0,1.0
+ST-0261,Fern Flow,PropTech,Seed,Southeast Asia,Singapore,contact@fernflow0.io,2301126,1641347,1034854,0.0,16,1.0,1.0
+ST-0262,OfferIO,SaaS,Series A,Southeast Asia,Singapore,contact@offerio1.io,18490855,8274773,5904963,0.0,55,1.0,1.0
+ST-0263,Deft.app,FoodTech,Pre-Seed,Europe,Netherlands,contact@deftapp2.io,93674,270048,0,0.0,9,1.0,1.0
+ST-0264,EchoNest,PropTech,Series A,Europe,Netherlands,contact@echonest3.co,15353083,8265086,6805251,0.0,25,1.0,1.0
+ST-0265,Helm Labs,Fintech,Pre-Seed,Southeast Asia,Malaysia,contact@helmlabs4.io,859278,665120,0,0.0,4,1.0,1.0
+ST-0266,AdultNest,AdTech,Series B,Global,Germany,contact@adultnest5.com,21700601,32209444,29932642,0.0,150,1.0,0.0
+ST-0267,Apex.ai,AgriTech,Series B,Global,USA,contact@apexai6.co,61673397,51295438,40213814,0.0,178,2.0,0.0
+ST-0268,VastEdge,LogisTech,Series A,North America,USA,contact@vastedge7.io,8643535,11976413,6199536,0.0,39,1.0,0.0
+ST-0269,Opal AI,PropTech,Series A,Middle East & Africa,Egypt,contact@opalai8.io,12310740,6860575,1510061,0.0,47,1.0,1.0
+ST-0270,RepublicanLink,EdTech,Pre-Seed,Latin America,Chile,contact@republicanli0.com,228166,704641,0,0.0,10,1.0,1.0
+ST-0271,Reef.ai,MarTech,Seed,Europe,Netherlands,contact@reefai1.io,3463055,2890476,0,0.0,18,1.0,1.0
+ST-0272,FusePath,DeepTech,Series A,Southeast Asia,Thailand,contact@fusepath2.co,5952055,12598174,1483763,0.0,54,1.0,1.0
+ST-0273,Reef Zone,CleanTech,Seed,Latin America,Argentina,contact@reefzone3.io,4867212,1632114,0,0.0,23,1.0,1.0
+ST-0274,HereStack,AdTech,Series A,Middle East & Africa,Egypt,contact@herestack4.co,18903705,10223583,2408446,0.0,34,1.0,1.0
+ST-0275,Cleo.xyz,AdTech,Pre-Seed,Middle East & Africa,Egypt,contact@cleoxyz5.com,772736,465482,188535,0.0,9,1.0,1.0
+ST-0276,SnapSpace,Fintech,Seed,Europe,UK,contact@snapspace6.io,1153970,2175635,0,0.0,9,1.0,1.0
+ST-0277,Bolt Stack,InsurTech,Series A,South Asia,Sri Lanka,contact@boltstack7.com,9097601,7883729,6353034,0.0,52,1.0,1.0
+ST-0278,MuchGate,CleanTech,Seed,Latin America,Brazil,contact@muchgate8.io,2243996,2891755,468981,0.0,5,1.0,1.0
+ST-0279,Trek.io,LogisTech,Series A,South Asia,Sri Lanka,contact@trekio0.com,8001021,4306537,6985259,0.0,26,1.0,0.0
+ST-0280,SnapBase,AdTech,Series A,Latin America,Mexico,contact@snapbase1.com,12927763,5315210,3640346,0.0,25,1.0,0.0
+ST-0281,Bolt Works,ConstructionTech,Seed,Latin America,Argentina,contact@boltworks2.co,2975721,682202,788093,0.0,18,1.0,1.0
+ST-0282,ProcessSpot,AdTech,Seed,Global,USA,contact@processspot3.io,1495391,1033385,541197,0.0,24,1.0,1.0
+ST-0283,Nova.ai,LogisTech,Series A,Asia Pacific,Japan,contact@novaai4.co,13432919,10074712,9609520,0.0,36,2.0,1.0
+ST-0284,PaveBase,AdTech,Series A,Latin America,Brazil,contact@pavebase5.co,16975854,6874455,8126759,0.0,18,2.0,0.0
+ST-0285,Yoke Tech,EdTech,Series A,Southeast Asia,Malaysia,contact@yoketech6.co,3124620,2851134,6868184,0.0,71,1.0,0.0
+ST-0286,ResourceSpot,HRTech,Series A,Europe,Spain,contact@resourcespot7.co,5613828,7969928,3651296,0.0,19,1.0,1.0
+ST-0287,Echo.io,BioTech,Series A,Global,Germany,contact@echoio8.io,13713693,7629325,660464,0.0,50,1.0,1.0
+ST-0288,FuseLabs,HealthTech,Pre-Seed,Middle East & Africa,Saudi Arabia,contact@fuselabs0.com,325345,545821,56303,0.0,6,1.0,1.0
+ST-0289,Aria Spot,CleanTech,Series A,Southeast Asia,Thailand,contact@ariaspot1.io,16545097,13043077,3302295,0.0,34,2.0,1.0
+ST-0290,YesShift,LogisTech,Seed,North America,USA,contact@yesshift2.com,687979,1931796,821288,0.0,10,1.0,1.0
+ST-0291,Raze.app,DeepTech,Pre-Seed,Southeast Asia,Indonesia,contact@razeapp3.com,259749,642586,0,0.0,10,1.0,1.0
+ST-0292,DuneMind,AdTech,Pre-Seed,Europe,France,contact@dunemind4.co,113995,163832,97438,0.0,3,1.0,1.0
+ST-0293,Helm Tech,Cybersecurity,Series A,Middle East & Africa,Kenya,contact@helmtech5.io,8581883,10572489,7087852,0.0,52,1.0,1.0
+ST-0294,SurfaceCo,Fintech,Series B,Middle East & Africa,Israel,contact@surfaceco6.com,75536926,42041927,16003952,0.0,186,1.0,0.0
+ST-0295,Trek.co,InsurTech,Seed,Asia Pacific,Hong Kong,contact@trekco7.com,1290966,2016569,1288070,0.0,18,1.0,1.0
+ST-0296,SageVault,HealthTech,Pre-Seed,North America,USA,contact@sagevault8.co,599956,599980,0,0.0,5,1.0,1.0
+ST-0297,Zest Flow,AgriTech,Series B,South Asia,Sri Lanka,contact@zestflow0.co,87858953,16694063,26552789,0.0,123,1.0,0.0
+ST-0298,PopularSpace,ConstructionTech,Series A,Southeast Asia,Malaysia,contact@popularspace1.com,10585748,4328887,9512762,0.0,78,1.0,0.0
+ST-0299,Neon.ai,CleanTech,Seed,Asia Pacific,Japan,contact@neonai2.com,1689607,1085047,776828,0.0,15,1.0,1.0
+ST-0300,FluxDesk,PropTech,Pre-Seed,Europe,Spain,contact@fluxdesk3.co,651889,277772,115726,0.0,6,0.0,1.0
+ST-0301,Sage Root,BioTech,Seed,Global,UK,contact@sageroot4.co,2326290,2543092,1188986,0.0,5,1.0,1.0
+ST-0302,HowNest,HealthTech,Seed,Latin America,Mexico,contact@hownest5.com,1341076,1405557,177495,0.0,25,1.0,1.0
+ST-0303,Warp.app,Cybersecurity,Series A,Southeast Asia,Thailand,contact@warpapp6.io,3381583,2560876,5948122,0.0,56,1.0,1.0
+ST-0304,BoltCo,BioTech,Series A,Southeast Asia,Malaysia,contact@boltco7.io,13189078,9326861,676890,0.0,58,1.0,0.0
+ST-0305,Trek Zone,FoodTech,Pre-Seed,Asia Pacific,Japan,contact@trekzone8.com,838845,490545,164091,0.0,9,0.0,1.0
+ST-0306,SocialEdge,LegalTech,Series A,Europe,Germany,contact@socialedge0.io,9552852,3411411,2422311,0.0,48,1.0,0.0
+ST-0307,Kite.io,FoodTech,Seed,North America,USA,contact@kiteio1.com,2670084,825822,1241283,0.0,24,1.0,1.0
+ST-0308,OrbiShift,SaaS,Series A,Global,UK,contact@orbishift2.io,16422445,6956074,6095957,0.0,65,1.0,0.0
+ST-0309,Deft Base,FoodTech,Pre-Seed,South Asia,India,contact@deftbase3.io,618378,453425,0,0.0,9,0.0,1.0
+ST-0310,DealRoot,Fintech,Series A,Global,UK,contact@dealroot4.co,16672882,7314986,1512541,0.0,53,1.0,1.0
+ST-0311,Echo.co,ConstructionTech,Series A,Latin America,Argentina,contact@echoco5.com,10024879,12189249,5083444,0.0,51,1.0,0.0
+ST-0312,NeonWorks,AgriTech,Pre-Seed,Southeast Asia,Thailand,contact@neonworks6.com,760423,390287,32359,0.0,6,0.0,1.0
+ST-0313,Bolt Co,AgriTech,Seed,North America,USA,contact@boltco7.com,2622509,2000614,0,0.0,14,1.0,1.0
+ST-0314,ConsiderGate,ConstructionTech,Series A,Latin America,Chile,contact@considergate8.com,19077170,12662974,6582767,0.0,28,1.0,1.0
+ST-0315,Hive.io,SaaS,Series C,South Asia,Sri Lanka,contact@hiveio0.com,363090240,97558400,137903441,0.0,206,2.0,0.0
+ST-0316,QuipGate,MarTech,Series B,South Asia,Sri Lanka,contact@quipgate1.com,77638671,13430859,7237795,0.0,216,2.0,0.0
+ST-0317,Glow Nest,ConstructionTech,Series A,South Asia,Bangladesh,contact@glownest2.io,12773414,5394398,4367779,0.0,20,1.0,1.0
+ST-0318,InformationSpace,DeepTech,Seed,Latin America,Chile,contact@informations3.co,1625637,1606922,725445,0.0,13,1.0,1.0
+ST-0319,Fuse.ai,FoodTech,Pre-Seed,Europe,France,contact@fuseai4.com,413540,612626,0,0.0,10,0.0,1.0
+ST-0320,CoveAI,BioTech,Series A,South Asia,Bangladesh,contact@coveai5.com,9781821,11734246,3748932,0.0,27,1.0,0.0
+ST-0321,Echo Base,AI/ML,Pre-Seed,South Asia,Bangladesh,contact@echobase6.co,239683,578029,41356,0.0,4,1.0,1.0
+ST-0322,RuleHQ,EdTech,Series A,Europe,Spain,contact@rulehq7.co,11375303,2086108,8642349,0.0,70,1.0,0.0
+ST-0323,Echo.co,FoodTech,Series B,Southeast Asia,Malaysia,contact@echoco8.io,48819757,47508469,9027560,0.0,135,2.0,0.0
+ST-0324,NeonGate,AI/ML,Pre-Seed,Asia Pacific,Australia,contact@neongate0.co,542295,305173,0,0.0,6,0.0,1.0
+ST-0325,Tide Co,AdTech,Series B,Latin America,Mexico,contact@tideco1.io,55064356,40654202,20198435,0.0,92,2.0,0.0
+ST-0326,EnjoyShift,AgriTech,Pre-Seed,Latin America,Argentina,contact@enjoyshift2.com,592839,736527,162838,0.0,10,1.0,1.0
+ST-0327,Velo.io,E-commerce,Seed,Asia Pacific,Australia,contact@veloio3.com,2396843,836179,945978,0.0,13,1.0,1.0
+ST-0328,EchoLabs,AgriTech,Series B,Europe,Spain,contact@echolabs4.com,20103092,50690903,25397353,0.0,140,1.0,0.0
+ST-0329,Dune Spot,BioTech,Series C,Middle East & Africa,UAE,contact@dunespot5.io,130919745,178778973,193360981,0.0,524,2.0,0.0
+ST-0330,ListenWorks,InsurTech,Series B,Middle East & Africa,Nigeria,contact@listenworks6.co,58387785,48737218,24005716,0.0,173,2.0,0.0
+ST-0331,Aria.co,HRTech,Series A,Global,USA,contact@ariaco7.com,5753991,4966833,3510343,0.0,32,1.0,0.0
+ST-0332,TrekWorks,LogisTech,Series B,Asia Pacific,New Zealand,contact@trekworks8.com,30630327,11155055,37205304,0.0,238,2.0,0.0
+ST-0333,Aria Gate,EdTech,Series B,Europe,UK,contact@ariagate0.io,61616868,11318246,21659588,0.0,67,1.0,0.0
+ST-0334,WeightDesk,AgriTech,Pre-Seed,Latin America,Mexico,contact@weightdesk1.com,750714,388054,0,0.0,4,0.0,1.0
+ST-0335,Keen.app,LegalTech,Pre-Seed,Latin America,Chile,contact@keenapp2.io,178359,716516,118166,0.0,9,1.0,1.0
+ST-0336,CoveCore,LogisTech,Series A,Asia Pacific,Hong Kong,contact@covecore3.com,16680032,7744184,3974942,0.0,35,1.0,1.0
+ST-0337,Deft Flow,InsurTech,Seed,Asia Pacific,Hong Kong,contact@deftflow4.com,3594965,1729829,449416,0.0,25,1.0,1.0
+ST-0338,YeahSpot,LogisTech,Series A,South Asia,Bangladesh,contact@yeahspot5.co,10430808,5248650,7291911,0.0,69,1.0,0.0
+ST-0339,Lynx.xyz,ConstructionTech,Seed,Latin America,Colombia,contact@lynxxyz6.co,3843171,2522022,1280223,0.0,12,1.0,1.0
+ST-0340,GlowStack,ConstructionTech,Series B,Asia Pacific,Japan,contact@glowstack7.io,16648609,12481604,28143625,0.0,70,1.0,0.0
+ST-0341,Nova Nest,HealthTech,Seed,Southeast Asia,Singapore,contact@novanest8.io,1477346,1550608,747594,0.0,22,1.0,1.0
+ST-0342,SeemWorks,E-commerce,Seed,North America,Canada,contact@seemworks0.io,821231,1675367,0,0.0,25,1.0,1.0
+ST-0343,Lynx.app,LegalTech,Pre-Seed,South Asia,Sri Lanka,contact@lynxapp1.com,239221,577960,0,0.0,4,0.0,1.0
+ST-0344,KeenCo,SaaS,Series A,Europe,France,contact@keenco2.io,13854840,4583407,8931436,0.0,29,1.0,1.0
+ST-0345,Keen AI,AI/ML,Series C,Latin America,Chile,contact@keenai3.com,246239486,78894293,194390287,0.0,599,2.0,0.0
+ST-0346,TaskWorks,HealthTech,Series B,South Asia,India,contact@taskworks4.io,22769132,40932243,46749893,0.0,175,1.0,0.0
+ST-0347,Cove.ai,E-commerce,Series B,Asia Pacific,Japan,contact@coveai5.io,98442435,49428091,38564784,0.0,138,1.0,0.0
+ST-0348,NeonVault,E-commerce,Pre-Seed,Latin America,Brazil,contact@neonvault6.io,721295,463366,98018,0.0,7,0.0,1.0
+ST-0349,Grid Shift,AdTech,Pre-Seed,Southeast Asia,Singapore,contact@gridshift7.co,197274,292187,0,0.0,2,1.0,1.0
+ST-0350,ThreatCo,Fintech,Pre-Seed,Middle East & Africa,Saudi Arabia,contact@threatco8.com,354659,141172,163810,0.0,9,1.0,1.0
+ST-0351,Hive.co,HRTech,Pre-Seed,Middle East & Africa,UAE,contact@hiveco0.com,547041,143342,25955,0.0,4,0.0,1.0
+ST-0352,EchoDesk,AgriTech,Series A,Asia Pacific,Hong Kong,contact@echodesk1.co,14922338,5327201,3980363,0.0,20,2.0,0.0
+ST-0353,Xcel Sync,HealthTech,Series A,Asia Pacific,Australia,contact@xcelsync2.io,12486338,14197170,4451555,0.0,61,1.0,0.0
+ST-0354,WorldLabs,HealthTech,Pre-Seed,Latin America,Brazil,contact@worldlabs3.com,962557,163128,106332,0.0,7,0.0,1.0
+ST-0355,Cleo.xyz,AdTech,Series A,Global,USA,contact@cleoxyz4.co,12801582,10768403,7174229,0.0,22,1.0,1.0
+ST-0356,YokeEdge,AI/ML,Series B,Asia Pacific,South Korea,contact@yokeedge5.io,61756914,59842516,42708139,0.0,177,2.0,0.0
+ST-0357,Lynx Wave,AdTech,Seed,South Asia,Bangladesh,contact@lynxwave6.co,4667661,1135223,671250,0.0,23,1.0,1.0
+ST-0358,FindRoot,E-commerce,Series A,Latin America,Brazil,contact@findroot7.io,19734705,4792697,3491594,0.0,76,1.0,1.0
+ST-0359,Yoke.xyz,MarTech,Seed,Southeast Asia,Singapore,contact@yokexyz8.com,2571664,890268,1334438,0.0,11,1.0,1.0
+ST-0360,EchoHub,HealthTech,Series A,Middle East & Africa,Kenya,contact@echohub0.com,11300699,13687313,7177055,0.0,21,1.0,0.0
+ST-0361,Echo Gate,HealthTech,Seed,North America,Canada,contact@echogate1.io,4459066,1585761,180811,0.0,24,1.0,1.0
+ST-0362,DriveDesk,AgriTech,Series A,North America,Canada,contact@drivedesk2.co,3700098,9019086,1921010,0.0,29,1.0,1.0
+ST-0363,Quip.app,ConstructionTech,Series C,Europe,Germany,contact@quipapp3.io,201708872,103091585,43794028,0.0,521,2.0,0.0
+ST-0364,FernGate,DeepTech,Seed,Global,UK,contact@ferngate4.com,2664151,995271,856996,0.0,30,1.0,1.0
+ST-0365,Glow Works,HRTech,Series C,Middle East & Africa,Egypt,contact@glowworks5.co,117629752,147479609,96237308,0.0,358,2.0,0.0
+ST-0366,ChanceCore,AI/ML,Series B,Middle East & Africa,Saudi Arabia,contact@chancecore6.io,67970483,32023171,46438021,0.0,187,1.0,0.0
+ST-0367,Fern.ai,SaaS,Pre-Seed,South Asia,Sri Lanka,contact@fernai7.com,875315,633087,0,0.0,3,0.0,1.0
+ST-0368,RazeVault,AdTech,Seed,South Asia,India,contact@razevault8.co,2854696,1146645,1094885,0.0,22,1.0,1.0
+ST-0369,Zeal Labs,BioTech,Series A,Southeast Asia,Singapore,contact@zeallabs0.io,6411833,11054847,3077174,0.0,76,1.0,1.0
+ST-0370,AllowDeck,LogisTech,Seed,Europe,UK,contact@allowdeck1.io,4403347,2123528,0,0.0,29,1.0,1.0
+ST-0371,Grid.xyz,HealthTech,Series A,Southeast Asia,Indonesia,contact@gridxyz2.co,19435453,9288938,7268457,0.0,75,1.0,0.0
+ST-0372,AriaAI,LogisTech,Series A,Middle East & Africa,Nigeria,contact@ariaai3.co,8139546,14947927,9796584,0.0,19,1.0,0.0
+ST-0373,Apex Spot,BioTech,Series A,South Asia,India,contact@apexspot4.io,18251980,10540113,1334053,0.0,77,1.0,1.0
+ST-0374,MaintainNest,HRTech,Series A,South Asia,Sri Lanka,contact@maintainnest5.com,10249905,6060976,6251004,0.0,24,1.0,1.0
+ST-0375,Velo.io,InsurTech,Series A,Southeast Asia,Philippines,contact@veloio6.com,14155940,9342976,2001455,0.0,50,1.0,0.0
+ST-0376,ZestVault,Fintech,Series A,Middle East & Africa,Kenya,contact@zestvault7.io,8156918,11692926,8306136,0.0,63,1.0,0.0
+ST-0377,Deft Co,Fintech,Seed,Latin America,Chile,contact@deftco8.co,3255629,1990902,0,0.0,7,1.0,1.0
+ST-0378,TravelShift,ConstructionTech,Pre-Seed,Asia Pacific,South Korea,contact@travelshift0.com,859523,419440,0,0.0,2,1.0,1.0
+ST-0379,Glow.app,CleanTech,Seed,South Asia,India,contact@glowapp1.com,1296852,2886748,925589,0.0,27,1.0,1.0
+ST-0380,FluxZone,AgriTech,Seed,Middle East & Africa,Kenya,contact@fluxzone2.co,4726126,1929836,962091,0.0,6,1.0,1.0
+ST-0381,Flux Sync,CleanTech,Seed,Global,USA,contact@fluxsync3.co,2243290,2412900,284776,0.0,27,1.0,1.0
+ST-0382,GoodCo,HRTech,Series C,Latin America,Chile,contact@goodco4.com,369780243,184588103,103444212,0.0,209,2.0,0.0
+ST-0383,Fuse.xyz,E-commerce,Seed,Global,Germany,contact@fusexyz5.io,2528986,947196,1068952,0.0,16,1.0,1.0
+ST-0384,AriaStack,EdTech,Pre-Seed,Europe,UK,contact@ariastack6.co,476928,335913,76817,0.0,7,1.0,1.0
+ST-0385,Pave Labs,AI/ML,Seed,Middle East & Africa,Saudi Arabia,contact@pavelabs7.co,4382026,905310,0,0.0,6,1.0,1.0
+ST-0386,YetMind,InsurTech,Series A,Southeast Asia,Singapore,contact@yetmind8.com,19327376,2045928,7771260,0.0,47,1.0,1.0
+ST-0387,Grid.app,CleanTech,Series C,South Asia,Sri Lanka,contact@gridapp0.co,279799036,105624219,34292885,0.0,309,2.0,0.0
+ST-0388,DuneScale,Cybersecurity,Series A,North America,USA,contact@dunescale1.com,3936087,6537258,1881057,0.0,53,1.0,0.0
+ST-0389,Fern Labs,EdTech,Series A,Global,UK,contact@fernlabs2.com,14425538,9944167,7069379,0.0,66,1.0,0.0
+ST-0390,OftenWave,LogisTech,Series C,North America,USA,contact@oftenwave3.io,215585177,183604764,167647654,0.0,698,2.0,0.0
+ST-0391,Lume.co,PropTech,Seed,Global,Canada,contact@lumeco4.com,3631233,2030134,0,0.0,21,1.0,1.0
+ST-0392,GridSpace,InsurTech,Series B,Global,Canada,contact@gridspace5.io,37071103,38757134,32292475,0.0,173,2.0,0.0
+ST-0393,Xcel Path,AI/ML,Seed,South Asia,Sri Lanka,contact@xcelpath6.io,4906659,503952,0,0.0,8,1.0,1.0
+ST-0394,HowLink,HRTech,Series B,North America,Canada,contact@howlink7.io,62635318,41875177,3530972,0.0,106,2.0,0.0
+ST-0395,Yoke.xyz,PropTech,Series C,North America,USA,contact@yokexyz8.co,219978814,103367892,122405877,0.0,691,2.0,0.0
+ST-0396,WarpPath,SaaS,Series B,Southeast Asia,Philippines,contact@warppath0.com,68312041,54602916,28237475,0.0,207,1.0,0.0
+ST-0397,Zeal Core,MarTech,Series A,Middle East & Africa,Saudi Arabia,contact@zealcore1.co,3318213,9506169,3651333,0.0,67,1.0,0.0
+ST-0398,ResultScale,Fintech,Pre-Seed,Middle East & Africa,Kenya,contact@resultscale2.co,557560,207880,37476,0.0,10,0.0,1.0
+ST-0399,Flux.co,HRTech,Series B,Europe,Netherlands,contact@fluxco3.com,46584604,51472873,17223549,0.0,85,1.0,0.0
+ST-0400,VeloTech,LegalTech,Series A,North America,Canada,contact@velotech4.co,5619322,6421507,5092983,0.0,35,1.0,1.0
+ST-0401,Kite Scale,DeepTech,Pre-Seed,Southeast Asia,Indonesia,contact@kitescale5.co,84725,351932,23167,0.0,2,1.0,1.0
+ST-0402,CommonEdge,LegalTech,Series A,North America,USA,contact@commonedge6.co,16025063,11692211,713562,0.0,57,1.0,0.0
+ST-0403,Hive.co,AdTech,Series A,Middle East & Africa,Kenya,contact@hiveco7.co,5000064,3941169,3099550,0.0,55,1.0,0.0
+ST-0404,NeonSpot,PropTech,Series C,Latin America,Mexico,contact@neonspot8.co,417681192,131853271,50829496,0.0,730,2.0,0.0
+ST-0405,Apex Path,SaaS,Seed,Europe,Netherlands,contact@apexpath0.com,887538,1479792,1336914,0.0,22,1.0,1.0
+ST-0406,MissionEdge,Cybersecurity,Series A,Europe,Netherlands,contact@missionedge1.co,5240520,12567063,9237046,0.0,45,1.0,1.0
+ST-0407,Vast.app,CleanTech,Seed,South Asia,India,contact@vastapp2.co,1661237,1408623,0,0.0,13,1.0,1.0
+ST-0408,XcelAI,HealthTech,Seed,Asia Pacific,Australia,contact@xcelai3.io,2653934,2614416,522923,0.0,18,1.0,1.0
+ST-0409,Kite Edge,AdTech,Seed,Europe,France,contact@kiteedge4.co,2574387,1976340,0,0.0,9,1.0,1.0
+ST-0410,FilmHub,MarTech,Pre-Seed,Global,Germany,contact@filmhub5.co,797960,453942,0,0.0,3,1.0,1.0
+ST-0411,Xcel.ai,MarTech,Seed,Asia Pacific,South Korea,contact@xcelai6.co,939443,1613041,608691,0.0,22,1.0,1.0
+ST-0412,KeenPath,SaaS,Series A,Europe,Germany,contact@keenpath7.com,18083446,13742328,6543262,0.0,25,1.0,1.0
+ST-0413,Pave Zone,MarTech,Seed,Asia Pacific,Japan,contact@pavezone8.com,3566826,1291494,1369806,0.0,29,1.0,1.0
+ST-0414,UnitFlow,HealthTech,Series B,North America,Canada,contact@unitflow0.com,87462940,13120528,45350558,0.0,50,2.0,0.0
+ST-0415,Lume.co,Fintech,Series B,South Asia,Bangladesh,contact@lumeco1.co,65163929,41260715,36453362,0.0,137,1.0,0.0
+ST-0416,DeftHub,AdTech,Pre-Seed,Global,Singapore,contact@defthub2.io,196554,748346,26855,0.0,2,1.0,1.0
+ST-0417,Snap IO,HealthTech,Series C,Southeast Asia,Thailand,contact@snapio3.io,441264160,182973195,145170294,0.0,555,2.0,0.0
+ST-0418,TestScale,LegalTech,Series B,Global,Singapore,contact@testscale4.com,30792238,40228663,30163110,0.0,97,2.0,0.0
+ST-0419,Cove.xyz,LogisTech,Seed,North America,USA,contact@covexyz5.co,2674707,1421446,1442607,0.0,23,1.0,1.0
+ST-0420,GlowMind,DeepTech,Series B,Europe,Sweden,contact@glowmind6.co,22517940,33622579,37859247,0.0,66,2.0,0.0
+ST-0421,Jolt Zone,SaaS,Seed,Middle East & Africa,Saudi Arabia,contact@joltzone7.com,2609910,1781658,1100722,0.0,29,1.0,1.0
+ST-0422,PolicyLabs,ConstructionTech,Series A,Latin America,Chile,contact@policylabs8.io,4044102,8151087,2106253,0.0,79,1.0,1.0
+ST-0423,Hive.app,HealthTech,Pre-Seed,Southeast Asia,Malaysia,contact@hiveapp0.com,858873,280602,0,0.0,11,0.0,1.0
+ST-0424,CleoWave,E-commerce,Pre-Seed,Asia Pacific,South Korea,contact@cleowave1.com,298190,555504,159874,0.0,5,0.0,1.0
+ST-0425,Zest Scale,FoodTech,Series A,Global,Germany,contact@zestscale2.com,14231344,11437988,2089191,0.0,70,1.0,0.0
+ST-0426,TendScale,EdTech,Pre-Seed,North America,USA,contact@tendscale3.io,428808,295889,150486,0.0,6,1.0,1.0
+ST-0427,Zest.xyz,HRTech,Series A,North America,Canada,contact@zestxyz4.io,9494070,6103952,5537408,0.0,21,1.0,0.0
+ST-0428,SnapZone,BioTech,Seed,Middle East & Africa,Nigeria,contact@snapzone5.io,4110424,1138360,691663,0.0,11,1.0,1.0
+ST-0429,Zeal Edge,AI/ML,Series A,Middle East & Africa,Saudi Arabia,contact@zealedge6.com,14437632,12811963,613633,0.0,22,1.0,0.0
+ST-0430,FiveCore,BioTech,Series A,South Asia,India,contact@fivecore7.com,13529753,2739465,6144317,0.0,29,1.0,0.0
+ST-0431,Lume.ai,ConstructionTech,Series B,Southeast Asia,Philippines,contact@lumeai8.co,79927910,42395292,40750403,0.0,72,1.0,0.0
+ST-0432,SageDesk,LegalTech,Seed,Latin America,Argentina,contact@sagedesk0.co,4565262,2424701,242949,0.0,24,1.0,1.0
+ST-0433,Bolt Base,BioTech,Series A,Southeast Asia,Philippines,contact@boltbase1.com,11359270,14071622,6297868,0.0,47,1.0,1.0
+ST-0434,LetterHub,ConstructionTech,Pre-Seed,Europe,Netherlands,contact@letterhub2.co,296046,122660,0,0.0,10,0.0,1.0
+ST-0435,Nova.ai,AgriTech,Seed,Latin America,Mexico,contact@novaai3.co,1984239,1478326,0,0.0,24,1.0,1.0
+ST-0436,SageSpot,CleanTech,Pre-Seed,North America,Canada,contact@sagespot4.co,827078,413343,187008,0.0,9,0.0,1.0
+ST-0437,Fern Flow,AdTech,Series A,Middle East & Africa,UAE,contact@fernflow5.io,15927702,5769463,2429644,0.0,78,1.0,0.0
+ST-0438,KidGate,EdTech,Seed,Middle East & Africa,Kenya,contact@kidgate6.com,4483464,1594959,0,0.0,6,1.0,1.0
+ST-0439,Pave.ai,AdTech,Series A,Latin America,Argentina,contact@paveai7.co,19404215,12553115,9682454,0.0,37,1.0,1.0
+ST-0440,QuipHQ,Cybersecurity,Pre-Seed,Asia Pacific,Hong Kong,contact@quiphq8.com,753999,251441,0,0.0,7,0.0,1.0
+ST-0441,Helm Labs,CleanTech,Series B,Southeast Asia,Singapore,contact@helmlabs0.com,68776224,55233118,41574743,0.0,172,2.0,0.0
+ST-0442,SuddenlyScale,EdTech,Seed,Europe,Netherlands,contact@suddenlyscal1.co,4096289,1051431,639317,0.0,30,1.0,1.0
+ST-0443,Echo.xyz,E-commerce,Series A,Middle East & Africa,Israel,contact@echoxyz2.com,13082449,6361548,1647082,0.0,42,1.0,1.0
+ST-0444,TrekNest,MarTech,Seed,North America,USA,contact@treknest3.com,4059735,2080487,236630,0.0,7,1.0,1.0
+ST-0445,Fuse Sync,InsurTech,Series B,Global,Germany,contact@fusesync4.co,25785856,17154393,15734638,0.0,98,1.0,0.0
+ST-0446,NothingZone,AI/ML,Seed,Asia Pacific,Hong Kong,contact@nothingzone5.com,3322362,2456458,6855,0.0,8,1.0,1.0
+ST-0447,Orbi.xyz,DeepTech,Pre-Seed,South Asia,Bangladesh,contact@orbixyz6.co,676361,279677,0,0.0,9,1.0,1.0
+ST-0448,CleoCo,SaaS,Seed,North America,Canada,contact@cleoco7.io,1443154,1128454,1335119,0.0,8,1.0,1.0
+ST-0449,Aria Space,Fintech,Series C,Asia Pacific,Hong Kong,contact@ariaspace8.com,109760989,77647973,100067761,0.0,422,2.0,0.0
+ST-0450,PassNest,EdTech,Series C,Middle East & Africa,Israel,contact@passnest0.com,179589712,106015273,55992050,0.0,198,2.0,0.0
+ST-0451,Snap.io,Cybersecurity,Seed,Asia Pacific,Japan,contact@snapio1.io,2180683,1644350,0,0.0,12,1.0,1.0
+ST-0452,EchoLabs,BioTech,Series B,Southeast Asia,Singapore,contact@echolabs2.io,53979209,18560066,19148072,0.0,171,2.0,0.0
+ST-0453,Helm Sync,AI/ML,Seed,South Asia,India,contact@helmsync3.io,4356382,1723033,887371,0.0,12,1.0,1.0
+ST-0454,YeahNest,CleanTech,Pre-Seed,Middle East & Africa,Kenya,contact@yeahnest4.co,261286,702862,182751,0.0,6,0.0,1.0
+ST-0455,Yoke.ai,HRTech,Series B,Global,Germany,contact@yokeai5.co,84809762,32622068,14304040,0.0,52,2.0,0.0
+ST-0456,DeftFlow,InsurTech,Seed,South Asia,Sri Lanka,contact@deftflow6.com,571686,2172589,0,0.0,19,1.0,1.0
+ST-0457,Vast Works,E-commerce,Series C,Global,UK,contact@vastworks7.io,343260602,152624330,20245457,0.0,400,2.0,0.0
+ST-0458,BoardCore,HRTech,Series A,Latin America,Chile,contact@boardcore8.co,12778899,4692904,7004319,0.0,37,2.0,1.0
+ST-0459,Orbi.ai,EdTech,Pre-Seed,Global,Singapore,contact@orbiai0.io,638177,337621,0,0.0,3,1.0,1.0
+ST-0460,MintNest,AdTech,Series B,Europe,Spain,contact@mintnest1.io,77677305,47613857,43943175,0.0,201,2.0,0.0
+ST-0461,Glow Root,HRTech,Series A,Latin America,Brazil,contact@glowroot2.com,9337834,7881338,5263776,0.0,46,1.0,1.0
+ST-0462,TellSync,InsurTech,Pre-Seed,Asia Pacific,Hong Kong,contact@tellsync3.io,809909,714487,188175,0.0,11,0.0,1.0
+ST-0463,Cleo.co,HealthTech,Series B,Europe,Germany,contact@cleoco4.io,24522089,17397702,10073409,0.0,240,1.0,0.0
+ST-0464,CoveIO,FoodTech,Series B,Middle East & Africa,Kenya,contact@coveio5.io,77705286,11074115,11885851,0.0,210,2.0,0.0
+ST-0465,Mint Link,MarTech,Seed,Middle East & Africa,Egypt,contact@mintlink6.co,4040710,1715371,795249,0.0,16,1.0,1.0
+ST-0466,TradeCore,AI/ML,Series A,Latin America,Mexico,contact@tradecore7.io,9322339,5745902,8532380,0.0,33,2.0,1.0
+ST-0467,Aria.xyz,InsurTech,Seed,Southeast Asia,Indonesia,contact@ariaxyz8.co,3617867,2165890,0,0.0,6,1.0,1.0
+ST-0468,TideFlow,AI/ML,Seed,South Asia,Sri Lanka,contact@tideflow0.co,656101,1292359,559372,0.0,9,1.0,1.0
+ST-0469,Quip Path,E-commerce,Seed,Asia Pacific,South Korea,contact@quippath1.com,519324,2346237,496921,0.0,17,1.0,1.0
+ST-0470,ProbablyWave,E-commerce,Series C,Asia Pacific,South Korea,contact@probablywave2.co,127172562,116636997,27214564,0.0,226,2.0,0.0
+ST-0471,Opal.app,LogisTech,Series A,Europe,France,contact@opalapp3.com,13338571,4536947,5501121,0.0,65,1.0,0.0
+ST-0472,TrekDeck,HealthTech,Series A,Global,UK,contact@trekdeck4.io,8401883,9866012,9462321,0.0,38,1.0,1.0
+ST-0473,Orbi Gate,LogisTech,Series A,North America,Canada,contact@orbigate5.io,8973036,14707807,8805866,0.0,62,1.0,1.0
+ST-0474,BornSpace,LegalTech,Seed,Latin America,Mexico,contact@bornspace6.co,4866623,1559580,209352,0.0,7,1.0,1.0
+ST-0475,Zeal.co,HealthTech,Series A,Global,USA,contact@zealco7.com,9960831,13887336,4437883,0.0,61,1.0,0.0
+ST-0476,CleoScale,AgriTech,Pre-Seed,Latin America,Chile,contact@cleoscale8.io,90121,637061,60783,0.0,7,0.0,1.0
+ST-0477,Tide Core,FoodTech,Series A,Europe,Spain,contact@tidecore0.co,18175671,7423038,5172922,0.0,31,1.0,0.0
+ST-0478,EveryTech,ConstructionTech,Series A,Middle East & Africa,Saudi Arabia,contact@everytech1.io,12614768,13288497,6465962,0.0,60,1.0,1.0
+ST-0479,Echo.ai,BioTech,Seed,Southeast Asia,Malaysia,contact@echoai2.com,1157617,1652610,536078,0.0,14,1.0,1.0
+ST-0480,BoltCore,InsurTech,Seed,Europe,Sweden,contact@boltcore3.com,3948991,958119,0,0.0,19,1.0,1.0
+ST-0481,Jolt Base,LogisTech,Pre-Seed,Europe,Sweden,contact@joltbase4.co,384048,193416,0,0.0,10,0.0,1.0
+ST-0482,PeaceCo,EdTech,Pre-Seed,South Asia,India,contact@peaceco5.co,260058,222471,122686,0.0,7,1.0,1.0
+ST-0483,Lume.app,LegalTech,Pre-Seed,Europe,UK,contact@lumeapp6.com,927239,411687,0,0.0,10,1.0,1.0
+ST-0484,MintCo,InsurTech,Seed,North America,USA,contact@mintco7.com,1079215,2235611,461142,0.0,30,1.0,1.0
+ST-0485,Lume Tech,Fintech,Series A,Asia Pacific,New Zealand,contact@lumetech8.com,6337967,2426305,6767994,0.0,45,2.0,0.0
+ST-0486,OutCore,Fintech,Pre-Seed,Europe,UK,contact@outcore0.co,245131,685764,0,0.0,3,1.0,1.0
+ST-0487,Fuse.co,LogisTech,Series A,Southeast Asia,Malaysia,contact@fuseco1.co,13420259,8563820,1149202,0.0,65,1.0,1.0
+ST-0488,HiveCo,AdTech,Series B,North America,USA,contact@hiveco2.com,93240560,52564841,25311629,0.0,87,2.0,0.0
+ST-0489,Neon Gate,HRTech,Series C,South Asia,Sri Lanka,contact@neongate3.com,251182747,161825511,76570449,0.0,488,2.0,0.0
+ST-0490,BoyCore,AdTech,Series A,North America,USA,contact@boycore4.io,11393118,7002155,4840985,0.0,60,1.0,0.0
+ST-0491,Reef.co,HRTech,Pre-Seed,South Asia,India,contact@reefco5.io,942128,338837,0,0.0,9,0.0,1.0
+ST-0492,FernHQ,E-commerce,Series A,Global,Germany,contact@fernhq6.co,13039473,3322388,9290258,0.0,19,2.0,0.0
+ST-0493,Grid Shift,AgriTech,Pre-Seed,Europe,Germany,contact@gridshift7.io,738940,281037,116384,0.0,10,1.0,1.0
+ST-0494,SellPath,ConstructionTech,Seed,Global,Germany,contact@sellpath8.co,1755008,2419999,0,0.0,17,1.0,1.0
+ST-0495,Kite.ai,HealthTech,Seed,Asia Pacific,Australia,contact@kiteai0.com,2221848,2198011,0,0.0,7,1.0,1.0
+ST-0496,XcelSpace,LegalTech,Seed,South Asia,Bangladesh,contact@xcelspace1.co,2740546,1761987,1214222,0.0,5,1.0,1.0
+ST-0497,Lume Gate,LegalTech,Series A,Middle East & Africa,Kenya,contact@lumegate2.io,10814156,2427177,5788332,0.0,35,1.0,0.0
+ST-0498,MatterIO,InsurTech,Pre-Seed,Global,Germany,contact@matterio3.com,590412,418860,107878,0.0,8,0.0,1.0
+ST-0499,Tide.app,MarTech,Pre-Seed,Global,Canada,contact@tideapp4.co,385126,735559,0,0.0,2,1.0,1.0
+ST-0500,FuseAI,PropTech,Series A,Global,USA,contact@fuseai5.io,8867431,6645759,3837058,0.0,31,1.0,1.0

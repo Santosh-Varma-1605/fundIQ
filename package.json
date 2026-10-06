@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "csv-parse": "^7.0.1"
+  }
+}
